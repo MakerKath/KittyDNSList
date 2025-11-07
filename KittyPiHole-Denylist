@@ -1,0 +1,5 @@
+! Title: KittyPiHole-Denylist
+! Description: Just a custom denylist for use with PiHole.
+!
+! Deny Huion software from calling home.
+||huion.cn^
