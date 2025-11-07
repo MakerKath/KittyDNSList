@@ -1,8 +1,9 @@
-! Title: KittyPiHole-Allowlist
-! Description: Just a custom allowlist for use with PiHole.
-!
-! Allowing Coupon Services to connect, though word of warning, they can and will alter affiliate links. 
-! If you want to support a creator, please disable these services before clicking on their links.
-||coupert.com^
-||joinhoney.com^
-||honey.io^
+# Title: KittyPiHole-Allowlist
+# Description: Just a custom allowlist for use with PiHole.
+# List format set to match PiHole's default list
+#
+# Allowing Coupon Services to connect, though word of warning, they can and will alter affiliate links. 
+# If you want to support a creator, please disable these services before clicking on their links.
+0.0.0.0 coupert.com
+0.0.0.0 joinhoney.com
+0.0.0.0 honey.io
