@@ -3,4 +3,4 @@
 # List format set to match PiHole's default list
 #
 # Deny Huion software from calling home.
-0.0.0.0 huion.cn
+||huion.cn^
